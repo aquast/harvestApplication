@@ -1,13 +1,13 @@
 /**
  * 
  */
-package de.nrw.hbz.dns;
+package de.nrw.hbz.rosetta.oai;
 
 /**
  * @author aquast
  *
  */
-public class SipReplicationController {
+public class HarvestController {
 
 	/**
 	 * @param args
